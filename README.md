@@ -24,7 +24,7 @@ I started this project to recover from the disastrous firmware update (21.0.0) t
 ## Usage
 
 1. Copy the contents of NXVinyl to the root of your SD card
-2. Launch via the Homebrew Menu first to initialize assets
+2. Launch via the Ultrahand
 3. Scan your library
 4. Enjoy the music!
 
